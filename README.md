@@ -1,3 +1,5 @@
+I made a change using prose!
+
 [![Build Status](https://travis-ci.org/Dynalon/mdwiki.png?branch=master)](https://travis-ci.org/Dynalon/mdwiki)
 
 
